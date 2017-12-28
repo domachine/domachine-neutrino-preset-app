@@ -10,7 +10,7 @@
   "author": "Dominik Burgdörfer <db@domachine.de> (https://domachine.de/)",
   "license": "MIT",
   "dependencies": {
-    "@neutrinojs/jest": "^8.0.14",
+    "@neutrinojs/jest": "8.0.14",
     "@neutrinojs/web": "^8.0.14",
     "awesome-typescript-loader": "^3.4.1",
     "deepmerge": "^2.0.1",
