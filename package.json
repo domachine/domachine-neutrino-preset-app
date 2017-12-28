@@ -1,0 +1,23 @@
+{
+  "name": "@domachine/neutrino-preset-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dominik Burgdörfer <db@domachine.de> (https://domachine.de/)",
+  "license": "MIT",
+  "dependencies": {
+    "@neutrinojs/jest": "^8.0.14",
+    "@neutrinojs/web": "^8.0.14",
+    "awesome-typescript-loader": "^3.4.1",
+    "deepmerge": "^2.0.1",
+    "ts-jest": "^22.0.0",
+    "typescript": "^2.6.2"
+  },
+  "peerDependencies": {
+    "neutrino": "^8.0.0"
+  }
+}
